@@ -21,6 +21,6 @@ resource "google_storage_bucket" "sample_bucket" {
   }
 
   labels = {
-    module-version: "v1-0"
+    module-version: "v1-1"
   }
 }
